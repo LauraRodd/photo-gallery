@@ -7,3 +7,5 @@ A simple black and white photo gallery built to practice basic CSS skills.
 - HTML
 - CSS
 - VSCode
+
+## View [Live](https://codepen.io/laura-rodd/full/rNVKLdv)
